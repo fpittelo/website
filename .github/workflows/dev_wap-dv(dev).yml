@@ -63,4 +63,4 @@ jobs:
           app-name: 'wap-dv'
           slot-name: 'dev'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6AA4F164E844B3A92253929993B85C7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_97C27EDE9EE94737AFB56A6CDCB739FD }}
