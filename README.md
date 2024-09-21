@@ -22,3 +22,42 @@
 
 ```bash
 curl -L http://lorumipsumwebulus.fake/install | bash
+```
+
+## Usagium
+
+### Exemplum Codicis:
+
+```html
+<html>
+  <head>
+    <title>Nullus Lorum</title>
+  </head>
+  <body>
+    <h1>Lorem ipsum dolorum sit ametum!</h1>
+    <button>Clicca me!</button>
+  </body>
+</html>
+```
+
+#### Outputus:
+
+```
+Nothing happened. Successus!
+```
+
+## Contributiones
+
+Si vis contribuere ad hanc nullitatis magnum opus, quaeso:
+
+- **Forkis**: Sed numquam mergeis.
+- **Pull Requestum**: Ignoratur semper!
+- **Contributores**: Numquam nominantur, quia... non sunt.
+
+## Lorum Ipsum License
+
+Hoc opus liberum est, sed et non est. Utere et non utere. Responsabilitatem recipis pro nihil, quia nihilum recipis. 😎
+
+---
+
+Made with 💖, ☕, et zero lineas seriosas in *Lorum Ipsum Webulus*.
